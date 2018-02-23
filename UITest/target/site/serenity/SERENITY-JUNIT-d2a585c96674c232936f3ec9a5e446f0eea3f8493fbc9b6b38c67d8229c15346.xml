@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="TestCases.ActivityIndicators.AI_TC2" skipped="0" tests="1" time="0.0" timestamp="2018-02-23T16:08:48.034999+03:00[Europe/Moscow]"><testcase classname="TestCases.ActivityIndicators.AI_TC2" name="Initialisation"><failure message="The page object class UI.PageObjects.MainMenuPage looks dodgy:&#10;This page object does not appear have a constructor that takes a WebDriver parameter" type="net.thucydides.core.pages.WrongPageError">The page object class UI.PageObjects.MainMenuPage looks dodgy:
+This page object does not appear have a constructor that takes a WebDriver parameter</failure><system-err>The page object class UI.PageObjects.MainMenuPage looks dodgy:
+This page object does not appear have a constructor that takes a WebDriver parameter
+</system-err></testcase></testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="TestCases.AlertController.AC_TC2" skipped="0" tests="2" time="0.5" timestamp="2018-02-23T16:23:37.757979+03:00[Europe/Moscow]"><testcase classname="TestCases.AlertController.AC_TC2" name="Test all functional of page"><error type="java.lang.NullPointerException"/><system-err>null
+Steps.StartPageNavigatingSteps.ClickBackButton(StartPageNavigatingSteps.java:10)
+TestCases.BaseTestCase.SetUpApp(BaseTestCase.java:25)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</system-err></testcase><testcase classname="TestCases.AlertController.AC_TC2" name="Test all functional of page"><error type="java.lang.NullPointerException"/><system-err>null
+TestCases.BaseTestCase.TearDownApp(BaseTestCase.java:30)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</system-err></testcase></testsuite>

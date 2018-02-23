@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="TestCases.DatePicker.DP_TC1" skipped="0" tests="1" time="0.0" timestamp="2018-02-23T16:06:27.303080+03:00[Europe/Moscow]"><testcase classname="TestCases.DatePicker.DP_TC1" name="Initialisation"><failure message="The page object class UI.PageObjects.StartPage looks dodgy:&#10;This page object does not appear have a constructor that takes a WebDriver parameter" type="net.thucydides.core.pages.WrongPageError">The page object class UI.PageObjects.StartPage looks dodgy:
+This page object does not appear have a constructor that takes a WebDriver parameter</failure><system-err>The page object class UI.PageObjects.StartPage looks dodgy:
+This page object does not appear have a constructor that takes a WebDriver parameter
+</system-err></testcase></testsuite>
